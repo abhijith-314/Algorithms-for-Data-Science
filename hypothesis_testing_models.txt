@@ -1,0 +1,2 @@
+Z test is used when sample size is greater than or equal to 30 and the data follows a normal distribution
+The population standard deviation is known to the researcher
